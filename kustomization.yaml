@@ -1,0 +1,6 @@
+resources:
+    - grafana-pv-local.yaml
+    - grafana-pvc-local.yaml
+    - grafana-datasource-config.yaml
+    - grafana-deployment.yaml
+    - grafana-service.yaml
